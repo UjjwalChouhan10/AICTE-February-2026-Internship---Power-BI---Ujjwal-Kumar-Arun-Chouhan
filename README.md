@@ -1,0 +1,2 @@
+# AICTE-February-2026-Internship---Power-BI---Ujjwal-Kumar-Arun-Chouhan
+A Chocolate Sales Data Analysis dashboard built using Microsoft Power BI. Analyzed 7,905 shipment records across 22 products, 6 countries, and 4 sales teams. Cleaned raw data using Power Query, built a Star Schema model, and created DAX measures to track KPIs like Total Revenue ($44.69M), Delivery Rate (80.4%), and Cancellation Rate (4.7%).
